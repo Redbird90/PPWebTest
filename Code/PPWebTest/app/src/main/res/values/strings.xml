@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PPWebTest</string>
+    <string name="write_btn">write</string>
+    <string name="read_btn">read</string>
+    <string name="connect_btn">connect</string>
+    <string name="reply_btn">reply</string>
+    <string name="recipients_btn">To:</string>
+    <string name="send_btn">send</string>
+    <string name="find_btn">find</string>
+    <string name="confirm_connect_btn">connect</string>
+</resources>
